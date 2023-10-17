@@ -1,0 +1,106 @@
+/* This will style the BODY element */
+body {
+    background-color: rgba(112, 128, 144, 0.394);
+    background-image: url(images/Blue_Bottle\,_Kyoto_Style_Ice_Coffee_\(5909775445\).jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+/* This will style the wrapper class to center the content */
+.wrapper {
+    /* background-color: blueviolet; */
+    width: 1024px;
+    min-height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+/* This will style the HEADER where the logo will go */
+header {
+    /* background-color: blue; */
+    min-height: 120px;
+}
+/* Style the logo  */
+.logoimage{
+    height: 120px;
+}
+
+/* This will style the NAV for links to other pages */
+nav {
+    background-color: rgba(127, 142, 255, 0.514);
+    min-height: 45px;
+    text-align: center;
+    padding-top: 14px;
+}
+nav a {
+    text-decoration: none;
+    font-size: 18px;
+    padding-right: 10px;
+    padding-left: 10px;
+    color: rgba(128, 128, 128, 0.993);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+/* Style the links to other pages */
+
+/* Style the MAIN */
+main {
+    /* background-color: darkorange; */
+    min-height: 400px;
+    text-align: center;
+    padding-top: 16px;
+    padding-left: 240px;
+    padding-right: 240px;
+    padding-bottom: 32px;
+}
+
+main h1{
+    font-size: 85px;
+    color:whitesmoke;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 1px 1px 2px black;
+}
+
+main h2{
+    font-size: 50;
+    color:whitesmoke;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 1px 1px 2px black;
+}
+p{
+    font-size: 18px;
+    color: rgb(249, 111, 93);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-shadow: 1px 2px 2px black;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+/* Style the Map class */
+.map {
+    min-height: 200px;
+    text-align: center;
+}
+
+/* This will style the FOOTER */
+footer {
+    background-color: rgba(43, 184, 255, 0.342);
+    min-height: 75px;
+}
+
+footer p{
+    color: whitesmoke;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 16px;
+}
+
+.CH1{
+    background-color: rgba(27, 12, 235, 0.37);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    }
+    .body2 {
+        background-image: url(images/Coffee_beans2.jpeg)
+    }
